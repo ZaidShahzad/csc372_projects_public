@@ -1,0 +1,26 @@
+[
+  {
+    "ticketId": "TKT-78901",
+    "subject": "Inquiry about custom embroidery",
+    "dateSubmitted": "2025-05-07",
+    "status": "Open",
+    "lastUpdate": "2025-05-07",
+    "priority": "Medium"
+  },
+  {
+    "ticketId": "TKT-78852",
+    "subject": "Issue with recent order ORD12360 - Sizing wrong",
+    "dateSubmitted": "2025-05-05",
+    "status": "In Progress",
+    "lastUpdate": "2025-05-06",
+    "priority": "High"
+  },
+  {
+    "ticketId": "TKT-78100",
+    "subject": "Question about international shipping",
+    "dateSubmitted": "2025-04-25",
+    "status": "Closed",
+    "lastUpdate": "2025-04-28",
+    "priority": "Low"
+  }
+]

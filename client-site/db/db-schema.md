@@ -1,0 +1,6 @@
+CREATE TABLE profile (
+profile_id INT AUTO_INCREMENT PRIMARY KEY,
+username VARCHAR(50) UNIQUE NOT NULL,
+email VARCHAR(255) UNIQUE NOT NULL,
+description TEXT
+);

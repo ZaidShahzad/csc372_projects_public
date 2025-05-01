@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderHistory>
+    <order>
+        <orderId>ORD12345</orderId>
+        <date>4/30/2025</date>
+        <item>
+            <name>All Over Print Recycled Unisex Sweatshirt</name>
+            <quantity>1</quantity>
+            <price currency="USD">33.95</price>
+        </item>
+        <status>Shipped</status>
+    </order>
+    <order>
+        <orderId>ORD12360</orderId>
+        <date>4/29/2025</date>
+        <item>
+            <name>Unisex Organic Oversized High Neck T-Shirt</name>
+            <quantity>2</quantity>
+            <price currency="USD">20.69</price>
+        </item>
+        <item>
+            <name>All-Over Print Unisex Wide-leg Pants</name>
+            <quantity>1</quantity>
+            <price currency="USD">25.00</price>
+        </item>
+        <status>Processing</status>
+    </order>
+    <order>
+        <orderId>ORD12210</orderId>
+        <date>4/19/2025</date>
+        <item>
+            <name>Unisex Organic Ribbed Neck T-Shirt</name>
+            <quantity>4</quantity>
+            <price currency="USD">15.29</price>
+        </item>
+        <status>Delivered</status>
+    </order>
+</orderHistory> 
